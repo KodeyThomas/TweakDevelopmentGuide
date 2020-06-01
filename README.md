@@ -18,7 +18,7 @@ If You Want To Learn OBJ-C (HIGHLY RECOMMENDED) Here Are A Few Links:
  
 # Support
 > Tweak Design is not easy,
-> its is increadibly fustrating sometimes
+> it is increadibly fustrating sometimes
 > however it is very rewarding.
 
 
